@@ -43,7 +43,7 @@ module.exports = (env) => {
                       ],
                 },
                 {
-                    test: /\.txt$/i,
+                    test: /\.test.js/i,
                     use: 'raw-loader',
                 }
             ]

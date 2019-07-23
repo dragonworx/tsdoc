@@ -1,7 +1,0 @@
-export class Foo {
-
-}
-
-export interface Bar extends A, B {
-   
-}

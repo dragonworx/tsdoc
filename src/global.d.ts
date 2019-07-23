@@ -1,4 +1,4 @@
-declare module "*.txt" {
+declare module "*.test.js" {
   const content: any;
   export default content;
 }
